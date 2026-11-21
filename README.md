@@ -1,6 +1,8 @@
 # Shenanengine
 A custom Roblox Battlegrounds framework made to help people make their battlegrounds game! (inspired but NOT AFFILIATED with JuJutsu Shenanigans, please tze dont skin me alive)
 
+(taking a break (but doing some things sometimes) cuz now i can only use my pc an hour so i preffer using it to play instead of doing ts)
+
 ## Status
 
 is like a 1 day fetus, it doesnt have anything

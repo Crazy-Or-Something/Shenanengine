@@ -5,7 +5,7 @@ A custom Roblox Battlegrounds framework made to help people make their battlegro
 
 ## Status
 
-is like a 1 day fetus, it doesnt have anything
+NOTHING
 
 ## What is made until now
 

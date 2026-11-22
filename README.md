@@ -3,7 +3,7 @@ A custom Roblox Battlegrounds framework made to help people make their battlegro
 
 ## DISCLAIMER
 
-god please forbid me for this sin... uh, SOME (Check [the md with all the AI generated files](AI_GENERATED_FILES.md) to see all) are AI generated (claude) but reviewed by me, obviously, claude free is bad as FUCK
+god please forbid me for this sin... uh, SOME (Check [the md with all the AI generated files](docs/AI_GENERATED_FILES.md) to see all) are AI generated (claude) but reviewed by me, obviously, claude free is bad as FUCK
 
 
 ## Status
